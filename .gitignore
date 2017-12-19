@@ -41,7 +41,7 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
+# /android/
 
 # Node
 node_modules
@@ -60,7 +60,7 @@ node_modules
 /third-party
 
 android/app/build/*
-android/build/*
+# android/build/*
 ios/build/*
 package-lock.json
 yarn.lock
